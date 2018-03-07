@@ -8,6 +8,7 @@ def main():
     print("Hello World!")
     input = AudioIn.AudioIn()
     input.StartStream()
+    input.StopStream()
 
 
 
