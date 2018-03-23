@@ -4,7 +4,7 @@
 
 Obtain input audio in real-time in order to illuminate a responsive LED system in a variety of customizable patterns, which correlate to the frequencies band-passed from the input source. This goal will be achieved in Python in order to be runnable on a Raspberry Pi, which will use its output pins to light external LED strips.
 
-# Requirements
+### Requirements
 
 1. This system should read in live audio with minimal latency
    i. This will allow for an LED system, which appears to respond to live audio in "real-time"
@@ -17,7 +17,7 @@ Obtain input audio in real-time in order to illuminate a responsive LED system i
 
 ## Getting Started
 
-# Items to Install Before Running:
+### Items to Install Before Running:
 
 PyAudio
 https://people.csail.mit.edu/hubert/pyaudio/
@@ -33,15 +33,15 @@ pip install pyaudio
 
 pip install numpy
 
-# Setting Up Your System
+## Setting Up Your System
 
 TODO
 
-# Configuring the Code for Your System
+## Configuring the Code for Your System
 
 TODO
 
-# Running the Code
+## Running the Code
 
 TODO
 
