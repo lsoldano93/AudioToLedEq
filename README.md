@@ -1,4 +1,4 @@
-### AudioToLEDEq
+# AudioToLEDEq
 
 ## Goal
 
